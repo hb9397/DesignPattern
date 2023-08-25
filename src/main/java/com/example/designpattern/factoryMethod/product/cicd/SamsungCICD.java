@@ -1,4 +1,4 @@
-package com.example.designpattern.abstractFactory.product.cicd;
+package com.example.designpattern.factoryMethod.product.cicd;
 
 public class SamsungCICD extends CIAndCD {
 	@Override

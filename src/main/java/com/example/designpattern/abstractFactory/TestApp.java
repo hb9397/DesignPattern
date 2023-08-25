@@ -1,4 +1,4 @@
-package com.example.designpattern;
+package com.example.designpattern.abstractFactory;
 
 import com.example.designpattern.abstractFactory.AbstractFactoryCompany;
 import com.example.designpattern.abstractFactory.service.ServiceForKakao;
